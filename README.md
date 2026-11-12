@@ -208,4 +208,4 @@ This repository serves as the official landing page for Neat Download Manager. T
 **Get the most recent version of Neat Download Manager today!**
 
 ---
-**Last updated:** 2026-11-12 03:37:30 UTC
+**Last updated:** 2026-11-12 12:12:09 UTC
